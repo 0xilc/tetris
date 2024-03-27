@@ -14,7 +14,6 @@
   - Random generation of Tetriminos.
   - Rendering using OpenGL for graphics.
   - Board logic for managing Tetriminos and checking for completed rows.
-  - Game screen management for navigation and user interface.
   - Input handling for player controls.
 
 ## Controls
